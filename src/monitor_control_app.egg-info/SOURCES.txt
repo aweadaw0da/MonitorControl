@@ -15,6 +15,7 @@ src/monitor_control_app/core/device_targets.py
 src/monitor_control_app/core/hotkeys.py
 src/monitor_control_app/core/input_sources.py
 src/monitor_control_app/core/logging_setup.py
+src/monitor_control_app/core/macos_monitor_backend.py
 src/monitor_control_app/core/monitor_service.py
 src/monitor_control_app/models/__init__.py
 src/monitor_control_app/models/monitor_info.py

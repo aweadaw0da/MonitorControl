@@ -2,8 +2,10 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .venv/
+.venv311/
 .tmp-appdata/
 build/
 dist/
 *.spec
 *.log
+.DS_Store
