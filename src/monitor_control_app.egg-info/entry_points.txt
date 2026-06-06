@@ -1,0 +1,2 @@
+[console_scripts]
+monitor-control = monitor_control_app.main:main
